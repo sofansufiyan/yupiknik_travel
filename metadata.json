@@ -1,0 +1,7 @@
+{
+  "name": "YUPIKNIK - Open Trip Discovery",
+  "description": "A premium open trip platform for discovering, booking, and tracking adventure journeys. Features AI-powered trip recommendations and seamless guest checkout.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
